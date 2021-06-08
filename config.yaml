@@ -1,0 +1,25 @@
+baseURL: https://example.com
+languageCode: es-CL
+title: Move Out Sale
+Paginate: 1000
+googleAnalytics: ''
+theme: showcase-hugo-theme
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+pluralizelisttitles: no
+params:
+  author: Moving Out Sale
+  description: Minimal, one page, theme for showcasing your work
+  hideAutoMenu: no
+  message: ''
+menu:
+  main:
+    - name: External
+#      url: https://example.com
+social:
+  whatsapp: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
+#  facebook: https://facebook.com
+#  linkedin: https://linkedin.com
+#  twitter: https://twitter.com
