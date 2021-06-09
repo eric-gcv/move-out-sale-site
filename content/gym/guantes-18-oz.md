@@ -5,3 +5,4 @@ title: Guantes Box 18 oz - Cuero Natural
 subtitle: $50.000
 link: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
 ---
+
