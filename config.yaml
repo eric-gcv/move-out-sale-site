@@ -1,25 +1,35 @@
-baseURL: https://example.com
+baseurl: https://ventapormudanza.netlify.app
+title: Venta por Mudanza Providencia
+theme: hugo-creative-portfolio-theme
 languageCode: es-CL
-title: Move Out Sale
-Paginate: 1000
+disqusShortname: ''
 googleAnalytics: ''
-theme: showcase-hugo-theme
-disableKinds:
-  - taxonomy
-  - taxonomyTerm
-  - RSS
-pluralizelisttitles: no
 params:
-  author: Moving Out Sale
-  description: Minimal, one page, theme for showcasing your work
-  hideAutoMenu: no
-  message: ''
-menu:
-  main:
-    - name: External
-#      url: https://example.com
-social:
-  whatsapp: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
-#  facebook: https://facebook.com
-#  linkedin: https://linkedin.com
-#  twitter: https://twitter.com
+  copyright: '&copy;2021 Coco & Bubu'
+  description: Describe your website
+  email: izabela.joann@gmail.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - I am a creative illustrator and graphic designer with more than 10 years of
+      experience.
+    - Originally from Toronto, currently based in London.
+  social:
+    email: izabela.joann@gmail.com
+    facebook: full page or profile url in facebook
+#    github: full profile url in github
+#    gitlab: full profile url in gitlab
+#    googleplus: full profile url in googleplus
+#    instagram: full profile url in instagram
+#    linkedin: full profile url in linkedin
+#    stackoverflow: full profile url in stackoverflow
+#    twitter: full profile url in twitter
+    whatsapp: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
+#    youtube: full profile url in youtube
+  style: default
