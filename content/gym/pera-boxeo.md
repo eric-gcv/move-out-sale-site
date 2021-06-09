@@ -6,7 +6,7 @@ image: https://lh3.googleusercontent.com/F3mkqZarqU8R-S9mLRh2IRtjA41g_g9LIZvcMTM
 price: $ 10.000
 weight: 10
 description: Pera loca de boxeo para entrenamiento de rapidez y flexibilidad
-link: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
+link: 
 exclude: false
 ---
 

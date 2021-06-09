@@ -15,13 +15,13 @@ params:
   copyright: '&copy;2021 Coco & Bubu'
   hideAutoMenu: no
   message: ''
-    
+
 menu:
   main:
     - name: About
 #      url: https://example.com
 social:
-  whatsapp: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
+  whatsapp: https://wa.me/56983277838?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
 #  facebook: https://facebook.com
 #  linkedin: https://linkedin.com
 #  twitter: https://twitter.com

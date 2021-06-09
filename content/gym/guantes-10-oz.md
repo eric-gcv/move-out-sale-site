@@ -6,6 +6,6 @@ image: https://lh3.googleusercontent.com/QPhuTgMVYaQz9fUOd7wMgl1WDk4xut13RtpHzMO
 price: $ 10.000
 weight: 10
 description: Guantes de boxeo plateados marca Ovins de 10 onzas, cuero sintetico poco uso. Ligeros y agiles, recomendados para entrenamiento de velocidad.
-link: https://wa.me/56951169934?text=Hola!%20Me%20interesan%20tus%20productos%20en%20venta.%20Cuentame%20mas%20sobre%20...
+link: 
 exclude: false
 ---
