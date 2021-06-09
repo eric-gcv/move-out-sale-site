@@ -4,10 +4,23 @@ theme: hugo-creative-portfolio-theme
 languageCode: es-CL
 disqusShortname: ''
 googleAnalytics: ''
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+pluralizelisttitles: no
+
+menu:
+  main:
+    - name: External
+#      url: https://example.com
+
 params:
   copyright: '&copy;2021 Coco & Bubu'
-  description: Describe your website
+  description: Sitio de una pagina para una venta por mudanza en Providencia, Chile
   email: izabela.joann@gmail.com
+  hideAutoMenu: no
   navlinks:
     - home: yes
       name: Home

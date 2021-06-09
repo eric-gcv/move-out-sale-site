@@ -4,11 +4,31 @@
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
-    <ul class="sidebar-menu">
-      {{ range .Site.Params.navlinks }}
-        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
+    
+    <nav
+      class="md:ml-auto flex flex-wrap items-center text-base justify-center"
+    >
+      {{ if and (eq .Site.Params.hideAutoMenu false) (eq $.IsNode true ) }}
+      <a
+        class="mr-2 px-2 rounded cursor-pointer select-none hover:text-gray-900 show-all"
+        >All</a
+      >
+      {{ range .Site.Sections }}
+      <a
+        class="mr-2 px-2 rounded cursor-pointer select-none hover:text-gray-900 filter-{{lower .Title}}"
+        >{{.Title}}</a
+      >
       {{ end }}
-    </ul>
+      {{ end }}
+      {{ range .Site.Menus.main }}
+      <a
+      href="{{ .URL }}"
+      class="mr-2 px-2 rounded cursor-pointer select-none hover:text-gray-900"
+      >{{ .Name }}</a>
+      {{ end }}
+    </nav>
+    
+
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">
