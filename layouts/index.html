@@ -30,16 +30,16 @@
           >
             {{ .Title }}
           </h2>
-          <p
+          <!--<p
             class="text-grey px-2 py-1 tracking-widest text-md leading-tight font-bold w-full absolute bottom-0 left-0 rounded-bl"
           >
             {{ .Params.Price }}
-          </p>
+          </p>-->
         </div>
-        <div class="card-body mt-3 tracking-widest leading-tight ">
+        <div class="card-body mt-3 px-1 tracking-widest leading-tight ">
           <h5 class="card-title font-bree font-extrabold ">{{ .Params.Subtitle }}</h5>
-          <h6 class="card-subtitle mb-2 text-muted">{{ .Params.Price }}</h6>
-          <p class="card-text">{{ .Params.Description }}</p>
+          <h6 class="card-subtitle mt-1 mb-2 text-muted">{{ .Params.Price }}</h6>
+          <p class="card-text text-xs text-justify">{{ .Params.Description }}</p>
         </div>
       </a>
       {{ end }}
