@@ -4,4 +4,6 @@ date: {{ .Date }}
 subtitle: 
 link: 
 image: 
+description: 
+weigth: 
 ---
