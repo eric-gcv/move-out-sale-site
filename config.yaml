@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: es-CL
-title: Move Out Sale
+title: Venta por Mudanza Providencia
 Paginate: 1000
 googleAnalytics: ''
 theme: showcase-hugo-theme
@@ -10,10 +10,25 @@ disableKinds:
   - RSS
 pluralizelisttitles: no
 params:
-  author: Moving Out Sale
-  description: Minimal, one page, theme for showcasing your work
+  author: Coco & Bubu
+  description: Sitio de una pagina para una venta por mudanza en Providencia, Chile
+  copyright: '&copy;2021 Coco & Bubu'
   hideAutoMenu: no
   message: ''
+  sidebarAbout:
+    - I am a creative illustrator and graphic designer with more than 10 years of
+      experience.
+    - Originally from Toronto, currently based in London.
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  style: default
+    
 menu:
   main:
     - name: External
@@ -23,3 +38,5 @@ social:
 #  facebook: https://facebook.com
 #  linkedin: https://linkedin.com
 #  twitter: https://twitter.com
+  email: izabela.joann@gmail.com
+
