@@ -6,7 +6,8 @@ library(blogdown)
 blogdown::install_hugo()
 blogdown::hugo_version()
 
-blogdown::new_site(theme = "apvarun/showcase-hugo-theme")
+# blogdown::new_site(theme = "apvarun/showcase-hugo-theme")
+blogdown::new_site(theme = "kishaningithub/hugo-creative-portfolio-theme")
 
 # To start a local preview: use blogdown::serve_site(), or the RStudio add-in "Serve Site"
 # To stop a local preview: use blogdown::stop_server(), or restart your R session
