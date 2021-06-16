@@ -13,3 +13,7 @@ blogdown::new_site(theme = "apvarun/showcase-hugo-theme")
 # Then visit http://localhost:7715/ in your browser to view the example site.
 blogdown::serve_site()
 blogdown::stop_server()
+
+# run in terminal to force build
+curl -X POST -d '{}' https://api.netlify.com/build_hooks/60c0c716ac8ece1126e7d908
+
