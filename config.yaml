@@ -2,7 +2,7 @@ baseURL: https://example.com
 languageCode: es-CL
 title: Venta por Mudanza Providencia
 Paginate: 1000
-googleAnalytics: 'G-YG96QXSCBL'
+googleAnalytics: G-YG96QXSCBL
 theme: showcase-hugo-theme
 disableKinds:
   - taxonomy
