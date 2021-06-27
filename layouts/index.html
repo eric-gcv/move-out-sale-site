@@ -22,15 +22,15 @@
           />
           {{ end }}
           <span
-            class="bg-blue-500 text-white px-3 py-1 tracking-widest text-xs absolute right-0 bottom-0 rounded-bl"
+            class="bg-blue-500 text-white px-3 py-1 tracking-widest text-xs absolute right-0 top-0 rounded-bl"
             >{{ title .Section }}</span
           >
-          <h2
+          <!--<h2
             class="bg-white bg-opacity-50 text-blue-500 px-2 py-1 tracking-widest text-l leading-tight font-extrabold font-bree text-center w-full flex justify-center items-center absolute top-0 left-0"
           >
             {{ .Title }}
           </h2>
-          <!--<p
+          <p
             class="text-grey px-2 py-1 tracking-widest text-md leading-tight font-bold w-full absolute bottom-0 left-0 rounded-bl"
           >
             {{ .Params.Price }}
@@ -39,6 +39,9 @@
         <div class="card-body mt-3 px-1 tracking-widest leading-tight ">
           <h5 class="card-title font-bree font-extrabold ">{{ .Params.Subtitle }}</h5>
           <h6 class="card-subtitle mt-1 mb-2 text-muted">{{ .Params.Price }}</h6>
+          {{ if  .Params.Pickup  }}
+          <p class="card-text text-xs text-justify text-danger text-red-500 mb-1">Retiro desde {{ .Params.Pickup }}</p>
+          {{ end }}
           <p class="card-text text-xs text-justify">{{ .Params.Description }}</p>
         </div>
       </a>
