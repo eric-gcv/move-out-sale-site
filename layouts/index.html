@@ -30,7 +30,7 @@
           <h5 class="card-title font-bree font-extrabold ">{{ .Params.Subtitle }}</h5>
           <h6 class="card-subtitle mt-1 mb-2 text-muted">{{ .Params.Price }}</h6>
           {{ if  .Params.Pickup  }}
-          <p class="card-text text-xs text-justify text-danger text-red-500 mb-1">Retiro desde {{ .Params.Pickup }}</p>
+          <p class="card-text text-xs text-justify text-danger text-red-500 mb-1">Retiro desde {{ .Params.Pickup }}. Reserva por 50% del precio</p>
           {{ end }}
           <p class="card-text text-xs text-justify">{{ .Params.Description }}</p>
         </div>
