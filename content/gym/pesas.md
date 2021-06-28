@@ -7,5 +7,5 @@ price: $ 18.000
 weight: 18
 description: Juego de pesas tipo mancuernas de 1, 2 y 3 Kg, antideslizantes y ergonomicas. Incluye pedestal
 link: 
-exclude: false
+exclude: true
 ---

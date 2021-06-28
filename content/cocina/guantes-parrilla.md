@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Guantes cómodos para parrilla u horno
 link: 
-exclude: false
+exclude: true
 ---

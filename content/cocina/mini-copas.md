@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: 6 copas tipo margarita en formato pequeño, para postres o entradas, ceviches o coctails
 link: 
-exclude: false
+exclude: true
 ---

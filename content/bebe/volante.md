@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Volante de juguete que se adhiere al vidrio trasero, con luces y sonidos 
 link: 
-exclude: false
+exclude: true
 ---

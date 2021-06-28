@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Set Perro Chocolo con instrumentos de percusion, 8 piezas. Tambor se abre para guardar las piezas dentro
 link: 
-exclude: false
+exclude: true
 ---
