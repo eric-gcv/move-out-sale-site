@@ -8,5 +8,5 @@ price: $ 15.000
 weight: 15
 description: Mueble tipo modular blanco, 110 x 70 x 30 cm
 link: 
-exclude: false
+exclude: true
 ---
