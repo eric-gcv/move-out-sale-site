@@ -8,5 +8,5 @@ price: $ 200.000
 weight: 200
 description: Cama Rosen Boxet Ergo-T 2 plazas 150x200 cm. Base se abre para uso como baul, incluye colchon.
 link: 
-exclude: false
+exclude: true
 ---
