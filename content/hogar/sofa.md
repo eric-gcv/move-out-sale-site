@@ -7,5 +7,5 @@ price: $ 130.000
 weight: 130
 description: Sofa de 3 cuerpos marca Rosen. Respaldo reclinable tipo futon
 link: 
-exclude: false
+exclude: true
 ---
