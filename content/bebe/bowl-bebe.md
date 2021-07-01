@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: Plato de bebé con tapa y cuchara, nuevo. Tiene ventosa en el fondo para adherir a la mesa
 link: 
-exclude: false
+exclude: true
 ---

@@ -8,5 +8,5 @@ price: $ 110.000
 weight: 110
 description: Comoda con mudador, hecha a pedido. 80x68x97 cm
 link: 
-exclude: false
+exclude: true
 ---

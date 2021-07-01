@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Banda elástica con sujetadores para musculación de brazos y tren superior
 link: 
-exclude: false
+exclude: true
 ---

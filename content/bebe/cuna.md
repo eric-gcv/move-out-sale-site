@@ -8,5 +8,5 @@ price: $ 100.000
 weight: 100
 description: Cuna de madera con certificacion de seguridad americana. Las barreras se desmontan, funciona como cuna, cuna colecho y cama de transición. 3 alturas ajustables, incluye colchon de bebe (espuma). 140x77x103 cm (89 de altura en los laterales mas bajos)
 link: 
-exclude: false
+exclude: true
 ---

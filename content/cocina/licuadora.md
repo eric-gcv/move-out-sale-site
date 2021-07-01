@@ -7,5 +7,5 @@ price: $ 20.000
 weight: 20
 description: Licuadora de alta potencia, funcion picahielo y rueda de velocidades
 link: 
-exclude: false
+exclude: true
 ---
