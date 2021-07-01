@@ -7,5 +7,5 @@ price: $ 7.000
 weight: 7
 description: Set de 6 copas/vasos para cerveza, con explicación según tipo de cerveza óptima para cada vaso
 link: 
-exclude: false
+exclude: true
 ---

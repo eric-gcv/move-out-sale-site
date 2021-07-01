@@ -7,5 +7,5 @@ price: $ 2.000
 weight: 2
 description: 4 vasos de shot largos
 link: 
-exclude: false
+exclude: true
 ---

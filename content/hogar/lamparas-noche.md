@@ -7,5 +7,6 @@ price: $ 8.000
 weight: 8
 description: Par de lamparas para velador, diseño moderno y en excelente estado
 link: 
-exclude: false
+exclude: true
 ---
+SIMON

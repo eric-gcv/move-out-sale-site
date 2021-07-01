@@ -7,5 +7,6 @@ price: $ 5.000
 weight: 5
 description: Rueda de ejercicios para fortalecer area abdominal
 link: 
-exclude: false
+exclude: true
 ---
+SIMON

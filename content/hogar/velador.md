@@ -7,5 +7,6 @@ price: $ 15.000
 weight: 15
 description: Juego 2 veladores color nogal, con seguros para niños. Precio es por ambas unidades. 40x40x53 cm
 link: 
-exclude: false
+exclude: true
 ---
+SIMON

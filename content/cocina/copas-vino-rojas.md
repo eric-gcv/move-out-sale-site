@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: 4 copas grandes de vino en vidrio color rojo
 link: 
-exclude: false
+exclude: true
 ---

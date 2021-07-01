@@ -7,5 +7,5 @@ price: $ 1.000
 weight: 1
 description: 3 vasos de shot cortos con mensajes
 link: 
-exclude: false
+exclude: true
 ---

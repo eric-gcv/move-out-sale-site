@@ -7,5 +7,5 @@ price: $ 35.000
 weight: 35
 description: Corral plegable mas cuna marca Gracco. Se puede utilizar como corral de juegos y como cuna para viajes. Incluye mudador plegable que se adhiere a la cuna. 
 link: 
-exclude: false
+exclude: true
 ---

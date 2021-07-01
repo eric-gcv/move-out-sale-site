@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: 5 copas medianas
 link: 
-exclude: false
+exclude: true
 ---
