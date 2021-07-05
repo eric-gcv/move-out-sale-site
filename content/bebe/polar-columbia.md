@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Polar Columbia talla 4 años
 link: 
-exclude: false
+exclude: true
 ---

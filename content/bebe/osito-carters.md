@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Osito Micropolar Carters 12-18m
 link: 
-exclude: false
+exclude: true
 ---

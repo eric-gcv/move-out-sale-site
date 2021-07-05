@@ -7,5 +7,5 @@ price: $ 7.000
 weight: 7
 description: Set 3 poleras talla 110 cm
 link: 
-exclude: false
+exclude: true
 ---

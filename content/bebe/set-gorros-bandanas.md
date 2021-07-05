@@ -7,5 +7,5 @@ price: $ 10.000
 weight: 10
 description: Set gorros y bandanas para bebe 0-6 meses, nuevos
 link: 
-exclude: false
+exclude: true
 ---

@@ -7,5 +7,5 @@ price: $ 8.000
 weight: 8
 description: Set 3 shorts talla 110 cm
 link: 
-exclude: false
+exclude: true
 ---

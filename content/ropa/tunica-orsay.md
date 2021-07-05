@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: Tunica Orsay talla M
 link: 
-exclude: false
+exclude: true
 ---
