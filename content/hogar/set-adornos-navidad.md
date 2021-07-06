@@ -7,5 +7,5 @@ price: $ 8.000
 weight: 8
 description: 4 cubresillas y una manta para el pie del arbol, todo como nuevo
 link: 
-exclude: false
+exclude: true
 ---

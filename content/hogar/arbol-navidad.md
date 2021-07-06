@@ -7,5 +7,5 @@ price: $ 10.000
 weight: 10
 description: Arbol de Navidad con luces de fibra optica 1,8 m. Seguro y bajo consumo, caja de adornos navideños de regalo
 link: 
-exclude: false
+exclude: true
 ---

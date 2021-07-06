@@ -7,5 +7,5 @@ price: $ 8.000
 weight: 8
 description: Barra de tracción para musculación tipo Iron Gym. Se ajusta fácilmente a marcos de puerta y permite variedad de ejercicios para tren superior
 link: 
-exclude: false
+exclude: true
 ---
