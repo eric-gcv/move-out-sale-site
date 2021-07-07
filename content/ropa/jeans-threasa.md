@@ -7,5 +7,5 @@ price: $ 10.000
 weight: 10
 description: Jeans marca Th.reasa, talla 38
 link: 
-exclude: false
+exclude: true
 ---

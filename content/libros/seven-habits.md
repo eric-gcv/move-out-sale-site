@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: INGLES - David Corvey - The 7 habits of highly effective people. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---

@@ -7,5 +7,5 @@ price: $ 25.000
 weight: 25
 description: Chaqueta Camaïeu cuero natural rojo, nueva, talla M
 link: 
-exclude: false
+exclude: true
 ---

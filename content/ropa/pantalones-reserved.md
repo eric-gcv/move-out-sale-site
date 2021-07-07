@@ -7,5 +7,5 @@ price: $ 6.000
 weight: 6
 description: Pantalones elegantes mujer marca Reserved, talla 40
 link: 
-exclude: false
+exclude: true
 ---

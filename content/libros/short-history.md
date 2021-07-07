@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: INGLES - Bill Bryson - A short history of nearly everything. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---

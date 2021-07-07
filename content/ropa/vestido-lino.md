@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Vestido de Lino talla M
 link: 
-exclude: false
+exclude: true
 ---
