@@ -8,5 +8,5 @@ price: $ 150.000
 weight: 150
 description: Refrigerador Top Freezer con motor Inverter Compressor y capacidad total de 254 Lts. 5 años de uso, aún tiene 5 años de garantia LG. 56x167x63 cm
 link: 
-exclude: false
+exclude: true
 ---
