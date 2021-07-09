@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Adaptador portatil de niñ@s para WC, nuevo. Ligero y compacto, incluye bolsa de transporte
 link: 
-exclude: false
+exclude: true
 ---

@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Torre de juguete de semicirculos 10 pisos para estimulación. Se transforma en 5 pelotas de distintos tamaños
 link: 
-exclude: false
+exclude: true
 ---

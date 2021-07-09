@@ -7,5 +7,5 @@ price: $ 8.000
 weight: 8
 description: Carpa de juego plegable con tunel, se guarda en minimo espacio
 link: 
-exclude: false
+exclude: true
 ---

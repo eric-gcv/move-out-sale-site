@@ -7,5 +7,5 @@ price: $ 12.000
 weight: 12
 description: Colchoneta para camping marca Doite. Incluye kit de reparacion sin uso
 link: 
-exclude: false
+exclude: true
 ---

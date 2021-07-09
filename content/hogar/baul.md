@@ -7,5 +7,5 @@ price: $ 50.000
 weight: 50
 description: Baul de Madera con cierre
 link: 
-exclude: false
+exclude: true
 ---

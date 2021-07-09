@@ -7,5 +7,5 @@ price: $ 12.000
 weight: 12
 description: Pala antiadherente para pizza. 28 cm de ancho y mango abatible
 link: 
-exclude: false
+exclude: true
 ---

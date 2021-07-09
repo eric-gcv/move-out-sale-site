@@ -7,5 +7,5 @@ price: $ 8.000
 weight: 8
 description: Portabebes tipo Sling, multicolor. Fácil de usar y fomenta el apego con tu bebe
 link: 
-exclude: false
+exclude: true
 ---

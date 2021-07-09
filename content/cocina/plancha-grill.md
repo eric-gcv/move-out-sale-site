@@ -7,5 +7,5 @@ price: $ 18.000
 weight: 18
 description: Plancha de hierro fundido 31 cm para comidas increíbles. Puede usarse como piedra de pizza en el horno, como plancha sobre la cocina o como grill para parrilla.
 link: 
-exclude: false
+exclude: true
 ---

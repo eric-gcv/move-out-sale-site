@@ -7,5 +7,5 @@ price: $ 9.000
 weight: 9
 description: Cojin de aire para estimular la estabilidad y concentracion. Incluye bombin
 link: 
-exclude: false
+exclude: true
 ---

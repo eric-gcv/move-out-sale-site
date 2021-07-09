@@ -7,5 +7,5 @@ price: $ 18.000
 weight: 18
 description: Muñeca de 60 cm, cierra los ojos al acostarla
 link: 
-exclude: false
+exclude: true
 ---

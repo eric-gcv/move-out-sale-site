@@ -7,5 +7,5 @@ price: $ 20.000
 weight: 20
 description: Cafetera francesa Starbucks con estructura de cobre y jarro Bodum. Excelente estado
 link: 
-exclude: false
+exclude: true
 ---
