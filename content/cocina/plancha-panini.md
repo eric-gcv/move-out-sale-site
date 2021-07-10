@@ -7,5 +7,5 @@ price: $ 15.000
 weight: 15
 description: Plancha electrica para sandwiches y otras preparaciones. Muy versátil, puede usarse para asar vegetales, hamburguesas, nuggets, etc.
 link: 
-exclude: false
+exclude: true
 ---

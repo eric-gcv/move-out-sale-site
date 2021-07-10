@@ -14,7 +14,8 @@ params:
   description: Nos vamos de Chile y vendemos todo, Ayudanos a difundir! retiro en Providencia, Chile
   copyright: '&copy;2021 Coco & Bubu'
   hideAutoMenu: no
-  message: 'Nos vamos de Chile y vendemos todo!  Haz click en un producto para escribirnos por WhatsApp.  Retiro en Providencia, Chile'
+  message: 'Nos vamos de Chile y vendemos todo!  Haz click en un producto para escribirnos por WhatsApp.  Retiro en Providencia, Chile.'
+  submessage: 'En mobile, prueba el modo horizontal para ver más productos.'
 
 menu:
   main:

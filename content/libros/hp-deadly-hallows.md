@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: INGLES - JK Rowling - Harry Potter and the Deadly Hallows. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---
