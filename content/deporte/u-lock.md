@@ -7,5 +7,5 @@ price: $ 6.000
 weight: 6
 description: Candado tipo U-lock 20x10 cm, BTWIN 500
 link: 
-exclude: false
+exclude: true
 ---
