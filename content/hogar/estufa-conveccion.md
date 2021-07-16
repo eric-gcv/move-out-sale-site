@@ -7,5 +7,5 @@ price: $ 60.000
 weight: 60
 description: Estufa Ursus Trotter de convección con conexión a WiFi. Panel de 76x40 cm
 link: 
-exclude: true
+exclude: false
 ---
