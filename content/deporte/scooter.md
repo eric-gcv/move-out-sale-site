@@ -7,5 +7,5 @@ price: $ 15.000
 weight: 15
 description: Scooter Manual Oxelo Town 5XL, soporta adultos hasta 90 Kg.
 link: 
-exclude: false
+exclude: true
 ---
