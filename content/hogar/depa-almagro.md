@@ -7,5 +7,5 @@ price: UF 2.770
 weight: 2770000
 description: Departamento nuevo Almagro en metro irarrazaval, 1D 1B, 37.2 m2. Se traspasa el derecho de compraventa (en verde), entrega en noviembre. Click para detalles
 link: https://www.portalinmobiliario.com/MLC-625548545-departamento-almagro-nuevo-en-metro-irarrazaval-_JM
-exclude: false
+exclude: true
 ---

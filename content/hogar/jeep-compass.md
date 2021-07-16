@@ -7,5 +7,5 @@ price: $ 17.790.000
 weight: 17790
 description: Jeep Compass Sport año 2020 Mecanico con solo 3.000 KM. Impecable, mantención recien realizada. Click para detalles
 link: https://www.chileautos.cl/vehiculos/detalles/2020-jeep-compass-2-4-sport-lx/CL-AD-11608021/?Cr=1
-exclude: false
+exclude: true
 ---

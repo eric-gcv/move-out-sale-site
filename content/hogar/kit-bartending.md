@@ -7,5 +7,5 @@ price: $ 10.000
 weight: 10
 description: Kit Bartending con libro de mixologia, Boston shaker, colador Julep, macerador, cuchara de Martini, dos vasos de medidas, pinza de hielo y organizador
 link: 
-exclude: false
+exclude: true
 ---
