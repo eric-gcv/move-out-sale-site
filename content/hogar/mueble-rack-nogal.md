@@ -7,5 +7,5 @@ price: $ 50.000
 weight: 50
 description: Mueble tipo Rack color nogal, 183 x 40 x 77 cm
 link: 
-exclude: false
+exclude: true
 ---

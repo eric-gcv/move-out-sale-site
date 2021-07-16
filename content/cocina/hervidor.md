@@ -8,5 +8,5 @@ price: $ 12.000
 weight: 12
 description: Hervidor BPA Free, 3 meses de uso
 link: 
-exclude: false
+exclude: true
 ---

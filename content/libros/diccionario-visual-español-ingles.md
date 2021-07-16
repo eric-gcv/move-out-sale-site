@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: INGLES - Diccionario Visual Español Ingles
 link: 
-exclude: false
+exclude: true
 ---

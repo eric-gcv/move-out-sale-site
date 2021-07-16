@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Louise Keet - La Biblia de la Reflexología
 link: 
-exclude: false
+exclude: true
 ---

@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Vestido largo nuevo, usado 1 vez, talla M pequeña
 link: 
-exclude: false
+exclude: true
 ---

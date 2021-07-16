@@ -7,5 +7,5 @@ price: $ 12.000
 weight: 12
 description: Juguera marca Thomas, gran potencia, excelente estado.
 link: 
-exclude: false
+exclude: true
 ---

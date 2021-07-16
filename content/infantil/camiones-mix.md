@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Mix de vehiculos de juguete
 link: 
-exclude: false
+exclude: true
 ---

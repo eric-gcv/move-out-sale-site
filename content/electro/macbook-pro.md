@@ -1,7 +1,7 @@
 ---
 date: 2017-07-09
 title: Macbook Pro
-subtitle: MacBook Pro 1 TB disco SSD y 16 GB RAM
+subtitle: MacBook Pro 13.3" Dual-Core i5 2.50GHz 16GB RAM 1TB SSD Mid 2012
 image: https://lh3.googleusercontent.com/pw/AM-JKLW2wIxHP_1pAVb_akkTkWdAarLws2ilmvFCFxcNfb8Y7bzuAsC3XgKc8ayL3H1g5TSAtuV3kAbCSECbN5R8onf7Pat5-tYkcb94qEOuVyLiextSXlNATrj3bXVvC5lRz_K_juDfceB-UHo-v_n0sBwKug=w466-h621-no?authuser=0
 price: $ 750.000
 weight: 750
