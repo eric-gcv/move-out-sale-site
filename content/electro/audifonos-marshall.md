@@ -7,5 +7,5 @@ price: $ 40.000
 weight: 40
 description: Audifonos Marshall Major II
 link: 
-exclude: false
+exclude: true
 ---

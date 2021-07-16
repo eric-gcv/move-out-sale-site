@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Ken Follet - Los Pilares de la Tierra I y II. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---
