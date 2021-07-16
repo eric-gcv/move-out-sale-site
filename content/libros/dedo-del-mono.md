@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: Isaac Asimov - El dedo del mono. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---
