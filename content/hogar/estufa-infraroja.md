@@ -8,5 +8,5 @@ price: $ 140.000
 weight: 140
 description: Estufa Betterlife infraroja de 2000W, con conexion WiFi. Calefacciona hasta 60 m² con calor limpio y bajo consumo. Excelente estado y con mantención reciente. 30x36x40 cm
 link: 
-exclude: false
+exclude: true
 ---

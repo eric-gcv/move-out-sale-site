@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Caja organizadora 25x25x25 cm, con pelotas de varios tamaños y texturas
 link: 
-exclude: false
+exclude: true
 ---

@@ -7,5 +7,5 @@ price: $ 60.000
 weight: 60
 description: Fábrica de leche vegetal y procesador de comida. Automático y fácil de limpiar, prepara leches, sopas y jugos
 link: 
-exclude: false
+exclude: true
 ---
