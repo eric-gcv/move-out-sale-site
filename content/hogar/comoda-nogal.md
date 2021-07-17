@@ -7,5 +7,5 @@ price: $ 25.000
 weight: 25
 description: Cómoda color nogal, medidas 80x78x48 cm
 link: 
-exclude: false
+exclude: true
 ---

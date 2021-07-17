@@ -8,5 +8,5 @@ weight: 8
 
 description: Saco de dormir para niños hasta 140 cm
 link: 
-exclude: false
+exclude: true
 ---

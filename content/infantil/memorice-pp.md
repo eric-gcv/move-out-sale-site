@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Juego de cartas memorice Super Paw Patrol
 link: 
-exclude: false
+exclude: true
 ---

@@ -8,5 +8,5 @@ weight: 8
 
 description: Juguete Perrito Alfabeto con canciones y sonidos para cada letra. Canta al andar y con los botones
 link: 
-exclude: false
+exclude: true
 ---
