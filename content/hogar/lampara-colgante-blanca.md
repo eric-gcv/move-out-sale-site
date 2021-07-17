@@ -7,5 +7,5 @@ price: $ 5.000
 weight: 5
 description: Lampara colgante petalos blanca
 link: 
-exclude: false
+exclude: true
 ---
