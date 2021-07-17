@@ -7,5 +7,5 @@ price: $ 6.000
 weight: 6
 description: Manta para picnic marca CasaIdeas, lavable y plegable, medidas 150 x 135 cm
 link: 
-exclude: false
+exclude: true
 ---

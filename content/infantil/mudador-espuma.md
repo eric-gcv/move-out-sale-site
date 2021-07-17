@@ -7,5 +7,5 @@ price: $ 7.000
 weight: 7
 description: Mudador de espuma impermeable, color gris con estrellas
 link: 
-exclude: false
+exclude: true
 ---

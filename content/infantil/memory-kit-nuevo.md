@@ -7,5 +7,5 @@ price: $ 15.000
 weight: 15
 description: Memory kit, nuevo. Incluye foto, blackboard, accesorios para hacer huella del mano, imanes etc
 link: 
-exclude: false
+exclude: true
 ---
