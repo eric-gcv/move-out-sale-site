@@ -7,5 +7,5 @@ price: $ 50.000
 weight: 50
 description: Respaldo Rosen gris para cama 2 plazas. Estructura de madera y cubierta de tela con acolchado. 170x145 cm.
 link: 
-exclude: false
+exclude: true
 ---
