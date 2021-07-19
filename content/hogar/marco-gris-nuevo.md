@@ -7,5 +7,5 @@ price: $ 7.000
 weight: 7
 description: Marco nuevo para 4 foto de 10x15 cm
 link: 
-exclude: false
+exclude: true
 ---

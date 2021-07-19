@@ -7,5 +7,5 @@ price: $ 25.000
 weight: 25
 description: Carpa de bebé para viajes, playa y juegos, nueva. Incluye mosquitero, juguetes colgantes y forro de transporte
 link: 
-exclude: false
+exclude: true
 ---

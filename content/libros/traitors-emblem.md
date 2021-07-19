@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: INGLES - Juan Gomez Jurado - The traitor's emblem. Lleva 3x2 en todos los libros
 link: 
-exclude: false
+exclude: true
 ---

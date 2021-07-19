@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Marco nuevo para fotos 15x20 cm
 link: 
-exclude: false
+exclude: true
 ---

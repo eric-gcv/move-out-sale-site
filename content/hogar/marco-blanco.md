@@ -7,5 +7,5 @@ price: $ 4.000
 weight: 4
 description: Marco de fotos tamaño 38x29
 link: 
-exclude: false
+exclude: true
 ---
