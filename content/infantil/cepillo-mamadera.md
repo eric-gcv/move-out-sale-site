@@ -7,5 +7,5 @@ price: $ 1.000
 weight: 1
 description: Cepillo Mamadera Nuevo
 link: 
-exclude: false
+exclude: true
 ---

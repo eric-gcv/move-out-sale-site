@@ -7,5 +7,5 @@ price: $ 3.000
 weight: 3
 description: Tarjetas con objetos para estimulación infantil
 link: 
-exclude: false
+exclude: true
 ---
