@@ -7,5 +7,5 @@ price: $ 20.000
 weight: 20
 description: Mueble modular tipo rack color nogal, 83x36x62 cm
 link: 
-exclude: false
+exclude: true
 ---

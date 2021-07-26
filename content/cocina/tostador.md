@@ -8,5 +8,5 @@ price: $ 8.000
 weight: 8
 description: Tostador con funcion de descongelado, recalentar y temporizador
 link: 
-exclude: false
+exclude: true
 ---

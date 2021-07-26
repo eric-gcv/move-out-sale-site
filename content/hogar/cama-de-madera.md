@@ -7,5 +7,5 @@ price: $ 80.000
 weight: 80
 description: Cama de madera a ras de piso 1,5 pz con colchon Rosen Ergo T. 
 link: 
-exclude: false
+exclude: true
 ---

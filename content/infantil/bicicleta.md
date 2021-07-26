@@ -7,5 +7,5 @@ price: $ 60.000
 weight: 60
 description: Bicicleta Aro 16 marca BTWIN con rueditas de apoyo, 6 meses de uso. $80.000 con casco BTWIN y guantes de ciclismo infantil
 link: 
-exclude: false
+exclude: true
 ---

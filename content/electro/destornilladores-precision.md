@@ -7,5 +7,5 @@ price: GRATIS
 weight: 1
 description: 5 destornilladores - 2 cruz, paleta y 2 estrella
 link: 
-exclude: false
+exclude: true
 ---
